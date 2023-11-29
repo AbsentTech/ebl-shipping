@@ -1,6 +1,9 @@
+using Microsoft.AspNetCore.Mvc;
+
 namespace ebl_shipping.Controllers;
 
-public class ShippingController
+[ApiController]
+public class ShippingController : ControllerBase
 {
     
 }
