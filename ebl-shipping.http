@@ -1,0 +1,6 @@
+@ebl_shipping_HostAddress = http://localhost:5175
+
+GET {{ebl_shipping_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
